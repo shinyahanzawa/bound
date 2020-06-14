@@ -9,8 +9,8 @@
   font-family: Consolas, 'Courier New', Courier, Monaco, monospace;
 	position: absolute;
 	left: 0;
-	right: 0;
-	top:100px;
+	right: 200px;
+	top:300px;
 	bottom: 50px;
 	margin: auto;
 	font-size:5em;
