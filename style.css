@@ -12,6 +12,9 @@
 	right: 0;
 	top:400px;
 	bottom: 50px;
+	display: table-cell;
+  	vertical-align: middle;
+  	text-align: center;
 	margin: auto;
 	font-size:6em;
 	font-weight:bold;
